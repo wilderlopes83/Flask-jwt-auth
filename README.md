@@ -7,6 +7,7 @@
 ### Basics
 
 1. Activate a virtualenv
+    -$ source env/bin/activate
 1. Install the requirements
 
 ### Set Environment Variables
